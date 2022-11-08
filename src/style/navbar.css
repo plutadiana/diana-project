@@ -3,6 +3,8 @@
     text-align: right;
     background-color: #CCD6A6;
     align-items: center;
+    position: sticky;
+    top: 0;
 }
 
 .costume-navbar a {
@@ -12,7 +14,6 @@
     padding: 14px 16px;
     text-decoration: none;
     -ms-text-size-adjust: auto;
-  
 }
 
 .costume-navbar a:hover {

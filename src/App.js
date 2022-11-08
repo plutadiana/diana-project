@@ -4,6 +4,7 @@ import { Home } from './pages/Home';
 import { Cart } from './pages/Cart';
 import { Products } from './pages/Productss';
 import { Product } from './pages/Product';
+import { Users } from './pages/Users';
 import { Footer } from './components/Footer'
 import Navbar from './components/Navbar';
 import { addProduct } from './store/actions';
@@ -26,6 +27,7 @@ export default function App() {
           <Route path='/products' element={<Products />} />
           <Route path='/product/:id' element={<Product />} />
           <Route path='/cart' element={<Cart />} />
+          <Route path='/users' element={<Users />} />
         </Routes>
       </div>
       <Footer />

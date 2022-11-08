@@ -30,7 +30,6 @@ code {
   min-height: calc(100vh - 54px - 26px);
 }
 
-.selected {
-  color: red;
-  background-color: red;
+img {
+  max-width: 100%;
 }

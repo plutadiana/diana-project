@@ -8,6 +8,7 @@ export default class Navbar extends React.Component {
         <Link to="/">Acasă</Link>
         <Link to="/products">Produse</Link>
         <Link to="/cart">Cos</Link>
+        <Link to="/users">Users</Link>
       </nav>
     );
   }
