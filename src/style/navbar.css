@@ -1,0 +1,20 @@
+.costume-navbar {
+    display: flex;
+    text-align: right;
+    background-color: #CCD6A6;
+    align-items: center;
+}
+
+.costume-navbar a {
+    color:#2C3639;
+    font-family:Sans-Serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    -ms-text-size-adjust: auto;
+  
+}
+
+.costume-navbar a:hover {
+    background-color: #9ea975;
+}

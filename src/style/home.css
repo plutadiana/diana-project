@@ -1,0 +1,26 @@
+.motive h1,
+.despre-noi h1,
+.despre-noi p {
+    text-decoration: wavy;
+    text-align: center;
+    align-items: center;
+    color: #557153;
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.motive h5 {
+    color: #263125;
+    margin-inline: 20px;
+}
+
+.despre-noi .image,
+.motive .image {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.motive p {
+    margin-inline: 30px;
+}

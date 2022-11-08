@@ -1,0 +1,36 @@
+@import url('./style/flex.css');
+@import url('./style/navbar.css');
+@import url('./style/home.css');
+
+
+body {
+  background-color: #FFF6EA ;
+  margin: 0;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	line-height: 1.6;
+	min-height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.footer {
+  text-align: center;
+  background-color: #CCD6A6;
+}
+
+
+.routes-container {
+  min-height: calc(100vh - 54px - 26px);
+}
+
+.selected {
+  color: red;
+  background-color: red;
+}

@@ -1,0 +1,35 @@
+{
+  "porprietate": "valoare",
+  "dogs": [
+    {
+      "id": "1",
+      "title": "Kooper",
+      "text": "Buna, sunt un barbatel de 5 ani,sunt activ si imi place sa mananc multe legume.",
+      "img": "https:\/\/images.dog.ceo\/breeds\/shihtzu\/n02086240_3094.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Ciaki",
+      "text": "Sunt un baietel tare dragut, am varsta de 1an si vreau sa fim prieteni.",
+      "img": "https://images.dog.ceo/breeds/pomeranian/pomeranian_black_08.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Lucy",
+      "text": "Salutare, eu am 1 anisor, si sunt foarte jucausa,daca iti place sa te joci cu minge atunci suntem prieteni.",
+      "img": "https://random.dog/3518b9b0-64b1-4b7d-b5b4-259a4b81d8ec.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Bella",
+      "text": "Chair daca am 5 anisori,sunt foarte energica si imi place sa fug dupa pisici!",
+      "img": "https://random.dog/98b480d3-974b-4020-9032-2446130d8762.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Buster",
+      "text": "Da, sunt murdarel aici pe poza dar imi place si alerg foarte mult, si cand gasesc o balta nu ratez sa sar in ea :)",
+      "img": "https://random.dog/00b417af-0b5f-42d7-9ad0-6aab6c3db491.jpg"
+    }
+  ]
+}
